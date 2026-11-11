@@ -1,0 +1,17 @@
+# Weights and checkpoints (exceeding Git size limits)
+*.safetensors
+*.ckpt
+*.pt
+*.bin
+*.onnx
+
+# System & Cache
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Local runtime & logs
+*.log
+.vscode/
+.idea/
